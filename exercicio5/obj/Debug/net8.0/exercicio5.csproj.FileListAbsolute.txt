@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\bin\Debug\net8.0\exercicio5.exe
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\bin\Debug\net8.0\exercicio5.deps.json
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\bin\Debug\net8.0\exercicio5.runtimeconfig.json
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\bin\Debug\net8.0\exercicio5.dll
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\bin\Debug\net8.0\exercicio5.pdb
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\exercicio5.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\exercicio5.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\exercicio5.sourcelink.json
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\exercicio5.dll
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\refint\exercicio5.dll
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\exercicio5.pdb
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\exercicio5.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\exerciciosPratica\exercicio5\obj\Debug\net8.0\ref\exercicio5.dll
