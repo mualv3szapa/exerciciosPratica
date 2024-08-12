@@ -3,7 +3,7 @@ Lógica de Programação - pt. 1
 01 - A 
 02 - B 
 03 - A 
-04 * D 
+04 - D 
 05 - A 
 06 - B 
 07 - A 
@@ -53,25 +53,3 @@ Lógica de Programação - pt. 2
 29 - A
 30 - A
 
-Programação Orientada a Objetos - pt.3
-
-01 - C
-02 - C
-03 - D
-04 - B
-05 - B
-06 - A
-07 - B
-08 - A
-09 - B
-10 - A
-11 - E
-12 - C
-13 - C
-14 - D
-15 - D
-16 - E
-17 - A
-18 - B
-19 - A
-20 - A
